@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Ugonna
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning pandas
-- 💞️ I’m looking to collaborate on Data science projects
+👋 Hi, I’m Ugonna!
+I'm a research associate at the Embedded System Institute, University of Siegen, Germany
+- 👀 I’m interested in deep learning and LLM
+- 🌱 I'm currently learning Garmin watch app development 
+- 🔭 I’m currently working on Human Activity Recognition
+- 💞️ I’m looking to collaborate on LLM projects
+- 🛠️ Language of choice: python, Monkey C. 
 - 📫 How to reach me: queendalinoleh@gmail.com
 
 <!---
